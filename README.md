@@ -8,6 +8,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/maran_1947" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maran_1947" height="30" width="40" /></a>
+ <a href="https://medium.com/@abhishekmaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abhishekmaran" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maran1947&label=Profile%20views&color=0e75b6&style=flat" alt="maran1947" /> </p>
 <h3 align="left">Support:</h3>
