@@ -2,7 +2,7 @@
 <h4 align="center">I am really glad 🤗 to see you. Welcome to my sweet 🏡!</h4>
 
 ## About Me
-- 👨‍💻 Developer and Competitive programmer
+- 👨‍💻 Full Stack Developer
 - ✍ Self-learner 
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: code your skills
 
