@@ -4,7 +4,7 @@
 ## About Me 
 - 👨‍💻 Full Stack Developer
 - ✍ Self-learner 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> Fun fact: code your skills
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />✨ Fun fact: code your skills
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -44,6 +44,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Maran1947/Stockify"><b>Stockify</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
