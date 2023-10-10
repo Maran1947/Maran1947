@@ -1,10 +1,18 @@
-<h1 align="center" ><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! You are amazing.</h1>
+<div align="center">
+  <img src="https://github.com/Maran1947/Maran1947/assets/69248165/5c8cff49-9816-433b-91e8-20638b4bf0ea"/>
+</div> 
+  
 <h4 align="center">I am really glad 🤗 to see you here. Welcome to my sweet code 🏡!</h4>
+
+<!--
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+-->
 
 ## About Me 
 - 👨‍💻 Full Stack Developer
 - ✍ Self-learner 
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />✨ Fun fact: code your skills
+- ✨ Fun fact: code your skills
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -55,8 +63,12 @@
   </tbody>
 </table>
 
+### Github Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maran1947&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- 
+(![](https://komarev.com/ghpvc/?username=maran1947))  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maran1947&show_icons=true&locale=en&theme=gotham" alt="maran1947" /></p>
-
+-->
 ### Connect with me:
 <p>
  <a href="https://github.com/maran1947" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -66,4 +78,7 @@
 
 ### Support
  <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
- 
+
+ <blockquote>
+  The thrill of learning never ends in the digital world. So become a self-learner…
+  </blockquote>
