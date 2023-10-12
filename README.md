@@ -74,7 +74,7 @@
 -->
 
 ### Random Dev Quote ✍
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia) ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_latte)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 ### Connect with me:
 <p>
