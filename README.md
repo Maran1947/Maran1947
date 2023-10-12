@@ -43,6 +43,7 @@
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>👩‍💻 Contributors</b></td>
     </tr>
   </thead>
   <tbody>
@@ -52,6 +53,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/contributors/maran1947/learn_react_js?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Maran1947/Stockify"><b>Stockify</b></a></td>
@@ -59,16 +61,21 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/contributors/maran1947/Stockify?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 
 ### Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maran1947&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maran1947&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 <!-- 
 (![](https://komarev.com/ghpvc/?username=maran1947))  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maran1947&show_icons=true&locale=en&theme=gotham" alt="maran1947" /></p>
 -->
+
+### Random Dev Quote ✍
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia) ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin_latte)
+
 ### Connect with me:
 <p>
  <a href="https://github.com/maran1947" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -79,6 +86,4 @@
 ### Support
  <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
- <blockquote>
-  The thrill of learning never ends in the digital world. So become a self-learner…
-  </blockquote>
+> The thrill of learning never ends in the digital world. So become a   self-learner…
