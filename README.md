@@ -19,20 +19,20 @@ __[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Ex
   <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
   <img width="110px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-UI&svgfill=659b60">
   <br/>
-  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-    <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=028dd1">
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+    <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=028dd1">
   <br/>
-  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
-  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
   <br/>
-  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img width="85px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60">
-  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=659b60">
-  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=f29221">
-  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcd33">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  <img width="95px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60">
+  <img width="110px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=659b60">
+  <img width="85px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=f29221">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcd33">
   <br/>
   <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f44d27">
    <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=a236f7">
