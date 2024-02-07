@@ -9,15 +9,15 @@
 -->
 
 ## About Me 
-__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Extension`, `✨ Crafting digitak wonders` ]__
+__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Extension`, `✨ Crafting digital wonders` ]__
  
 <h3>Things I code with</h3>
 <p align="left">  
-  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c">
-  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-     <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=659b60">
-     <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
-      <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-UI&svgfill=659b60">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c">
+  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+  <img width="120px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=659b60">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
+  <img width="110px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-UI&svgfill=659b60">
   <br/>
   <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
   <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
