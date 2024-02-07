@@ -2,39 +2,42 @@
   <img src="https://github.com/Maran1947/Maran1947/assets/69248165/5c8cff49-9816-433b-91e8-20638b4bf0ea"/>
 </div> 
   
-<h4 align="center">I am really glad 🤗 to see you here. Welcome to my sweet code 🏡!</h4>
+<h4 align="center">I am really glad 🤗 to see you here!</h4>
 
 <!--
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 -->
 
 ## About Me 
-- 👨‍💻 A Full Stack Developer
-- ✍ Self-learner 
-- ✨ Fun fact: code your skills
-
+__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Extension`, `✨ Crafting digitak wonders` ]__
+ 
 <h3>Things I code with</h3>
 <p align="left">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f44d27">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=028dd1">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react-native&svgfill=df5c43">  
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=a236f7">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3ddd85">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=5551ff">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcd33">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=f29221">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=SQL&svgfill=a236f7">
+  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f6df1c">
+  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+     <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=659b60">
+     <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=bootstrap&svgfill=659b60">
+      <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=material-UI&svgfill=659b60">
+  <br/>
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+    <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=cplusplus&svgfill=028dd1">
+  <br/>
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
+  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+  <img width="80px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&animation=spin&svgfill=15d8fe">  
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&animation=spin&svgfill=15d8fe">  
+  <br/>
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+  <img width="85px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=659b60">
+  <img width="100px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=659b60">
+  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=f29221">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=ffcd33">
+  <br/>
+  <img width="75px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=f44d27">
+   <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=kotlin&svgfill=a236f7">
+  <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=android&svgfill=3ddd85">
+   <img width="90px"  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma&svgfill=5551ff">
 </p>
 
 <h3>Open source projects</h3>
@@ -86,5 +89,3 @@
 
 ### Support
  <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-> The thrill of learning never ends in the digital world. So become a   self-learner…
