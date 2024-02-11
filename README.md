@@ -9,7 +9,7 @@
 -->
 
 ## About Me 
-__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Extension`, `✨ Crafting digital wonders` ]__
+__[ `👨‍💻 Full Stack Developer`, `🎯 Creator of CareerMatrix Chrome Extension`, `✨ Crafting digital wonders` ]__
  
 <h3>Things I code with</h3>
 <p align="left">  
@@ -88,4 +88,9 @@ __[ `👨‍💻 Full Stack Developer`, `🎯 Creator of Career Matrix Chrome Ex
 </p>
 
 ### Support
- <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+ <!-- <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> -->
+ <p align="left">
+  <a href="https://www.buymeacoffee.com/abhishekmaran" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200">
+  </a>
+</p>
