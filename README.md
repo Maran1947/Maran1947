@@ -72,6 +72,12 @@ const abhishekmaran = {
 🚀 Developer tools launching soon — stay tuned! 🔧
 ```
 
+## 🚀 My Products
+
+| Product       | Description                                   | Link                                      |
+|---------------|-----------------------------------------------|-------------------------------------------|
+| <div align="center" > <img src="https://github.com/user-attachments/assets/6f29d2c7-150e-4642-800c-84058268f2d4" width="30"/> <p>**CareerMatrix**</p> </div>  | 🏄‍♂️ Your all-in-one tool: access company career pages, interview experiences (option to listen), and LinkedIn productivity enhancements. | [Checkout it](https://chromewebstore.google.com/detail/career-matrix/bancpnkhkbjcjdibikfobbjpoahmkagm)||
+
 ### Github Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maran1947&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 <!-- 
