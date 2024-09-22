@@ -38,7 +38,10 @@ const abhishekmaran = {
 | **langs**     | C++, Java, Python                                                     |
 ```
 
-<h3>Open source projects</h3>
+## 👐 Open source projects
+```python
+🚀 Developer tools launching soon — stay tuned! 🔧
+```
 <table>
   <thead align="center">
     <tr border: none;>
@@ -67,10 +70,6 @@ const abhishekmaran = {
     </tr>
   </tbody>
 </table>
-
-```python
-🚀 Developer tools launching soon — stay tuned! 🔧
-```
 
 ## 🚀 My Products
 
