@@ -35,12 +35,13 @@ const abhishekmaran = {
 | **Dev Tools** | Git, GitHub, VSCode                                                           |
 ```
 ```rust
-| **langs**     | C++, Java, Python                                                     |
+| **langs**     | C++, Java, Python, Go                                                     |
 ```
 
 ## 👐 Open source projects
 ```python
 🚀 Developer tools launching soon — stay tuned! 🔧
+🎉 Update: Launched Localite – an AI-powered CLI tool
 ```
 <table>
   <thead align="center">
@@ -52,6 +53,14 @@ const abhishekmaran = {
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/Maran1947/localite"><b>Localite</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/maran1947/localite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/maran1947/localite?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/maran1947/localite?style=flat-square&labelColor=343b41"/></td>
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/maran1947/stockify?style=flat-square&labelColor=343b41"/></td> -->
+<!--       <td><img alt="Pull Requests" src="https://img.shields.io/github/contributors/maran1947/Stockify?style=flat-square&labelColor=343b41"/></td> -->
+    </tr>
      <tr>
       <td><a href="https://github.com/Maran1947/Stockify"><b>Stockify</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/maran1947/stockify?style=flat-square&labelColor=343b41"/></td>
@@ -72,7 +81,9 @@ const abhishekmaran = {
 </table>
 
 ## 🚀 My Products
-
+```kotlin
+🚀 Saas product launching soon — stay tuned! 🔧
+```
 | Product       | Description                                   | Link                                      |
 |---------------|-----------------------------------------------|-------------------------------------------|
 | <div align="center" > <img src="https://github.com/user-attachments/assets/6f29d2c7-150e-4642-800c-84058268f2d4" width="30"/> <p>**CareerMatrix**</p> </div>  | 🏄‍♂️ Your all-in-one tool: access company career pages, interview experiences (option to listen), and LinkedIn productivity enhancements. | [Checkout it](https://chromewebstore.google.com/detail/career-matrix/bancpnkhkbjcjdibikfobbjpoahmkagm)||
